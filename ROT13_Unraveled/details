@@ -1,0 +1,9 @@
+name - ROT13_Unraveled
+
+description - No fancy encryption, just an old-school letter twist. Can you crack it? Download the task file and decode it and submit the flag.
+
+flag - flag{R0t13_1s_Fun}
+
+category - crypto
+
+difficulty - easy
