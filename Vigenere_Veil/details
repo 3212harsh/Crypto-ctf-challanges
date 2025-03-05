@@ -1,0 +1,12 @@
+name - Vigenere_Veil
+
+description -	The message has been encrypted using a cipher that shifts letters based on a repeating key. Can you figure it out? Your Secret key is "secretkey" now its your task to 
+		figure how to use it :)	
+
+flag - flag{V1G3N3R3_R3V34L5_1T_4LL}
+
+category - crypto
+
+difficulty - easy
+
+hints - Try a Vigenère cipher solver if you're unsure how to proceed!
