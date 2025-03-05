@@ -1,0 +1,11 @@
+name - ASCII_Quest
+
+description - The secret message is hidden in plain sight, but it looks like just a bunch of numbers. Can you convert them back into readable text?
+
+flag - flag{Decimal_to_ASCII}
+
+category - crypto 
+
+difficulty - easy
+
+hints - The ASCII table is your best friend.
