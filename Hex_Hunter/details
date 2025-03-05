@@ -1,0 +1,9 @@
+name - Hex_Hunter
+
+description - The text is scrambled in hex. Reverse the encoding and reveal the message!
+
+flag - flag{Hex_to_ASCII}
+
+category - crypto
+
+difficulty - easy
