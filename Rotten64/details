@@ -3,3 +3,7 @@ name - Rotten64
 description - A hacker left a strange text behind. It looks scrambled, but a closer look might reveal something interesting. Download the message and hunt the flag
 
 flag - flag{B64_TH3N_R0T}
+
+category - crypto
+
+Difficulty - easy
